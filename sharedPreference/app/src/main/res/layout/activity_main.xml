@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="40dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    tools:context=".MainActivity">
+
+    <!-- Tiêu đề -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Nhập thông tin sinh viên"
+        android:textColor="#2907CA"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/textView"
+        android:gravity="center" />
+
+    <!-- Mã sinh viên -->
+    <TextView
+        android:id="@+id/label_msv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:text="Mã sinh viên:"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editText_msv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_msv"
+        android:layout_marginTop="8dp"
+        android:hint="Nhập mã sinh viên"
+        android:inputType="text" />
+
+    <!-- Tên sinh viên -->
+    <TextView
+        android:id="@+id/label_ten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_msv"
+        android:layout_marginTop="16dp"
+        android:text="Tên sinh viên:"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/editText_ten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_ten"
+        android:layout_marginTop="8dp"
+        android:hint="Nhập tên sinh viên"
+        android:inputType="textPersonName" />
+
+    <!-- Khoa -->
+    <TextView
+        android:id="@+id/label_khoa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_ten"
+        android:layout_marginTop="16dp"
+        android:text="Khoa:"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/editText_khoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_khoa"
+        android:layout_marginTop="8dp"
+        android:hint="Nhập khoa"
+        android:inputType="text" />
+
+    <!-- Lớp học phần -->
+    <TextView
+        android:id="@+id/label_lhp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_khoa"
+        android:layout_marginTop="16dp"
+        android:text="Lớp học phần:"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/editText_lhp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_lhp"
+        android:layout_marginTop="8dp"
+        android:hint="Nhập lớp học phần"
+        android:inputType="text" />
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_below="@+id/editText_lhp"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:id="@+id/checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText_lhp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lưu thông tin"
+            />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnxacnhan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Xác nhận"
+        android:layout_below="@+id/layout"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>
