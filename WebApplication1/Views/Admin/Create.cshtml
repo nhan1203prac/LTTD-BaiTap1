@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Create Product";
+}
+
+<h2>Create Product</h2>
+
+<form action="@Url.Action("Create", "Admin")" method="post" enctype="multipart/form-data">
+    <div>
+        <label for="ProductCode">Mã sản phẩm:</label>
+        <input type="text" id="ProductCode" name="MASANPHAM" required />
+    </div>
+    <div>
+        <label for="ProductName">Tên sản phẩm:</label>
+        <input type="text" id="ProductName" name="TENSANPHAM" required />
+    </div>
+    <div>
+        <label for="UnitPrice">Đơn giá:</label>
+        <input type="number" id="UnitPrice" name="DONGIA" required step="0.01" />
+    </div>
+    <div>
+        <label for="Quantity">Số lượng:</label>
+        <input type="number" id="Quantity" name="SOLUONG" required />
+    </div>
+    <div>
+        <label for="Image">Hình ảnh:</label>
+        <input type="file" id="Image" name="HINHANH" accept="image/*" required />
+    </div>
+    <div>
+        <label for="Description">Mô tả:</label>
+        <textarea id="Description" name="MOTA"></textarea>
+    </div>
+    <div>
+        <label for="CategoryCode">Mã danh mục:</label>
+        <select id="CategoryCode" name="MADANHMUC" required>
+            <option value="">Chọn mã danh mục</option>
+            @foreach (var category in ViewBag.Categories)
+            {
+                <option value="@category.MADANHMUC">@category.MADANHMUC</option>
+              
+            }
+        </select>
+    </div>
+    <div>
+        <button type="submit">Tạo sản phẩm</button>
+    </div>
+</form>
+
+@if (ViewBag.CreateError != null)
+{
+    <div style="color:red;">
+        @ViewBag.CreateError
+    </div>
+}
+
+@if (ViewBag.ProductError != null)
+{
+    <div style="color:red;">
+        @ViewBag.ProductError
+    </div>
+}

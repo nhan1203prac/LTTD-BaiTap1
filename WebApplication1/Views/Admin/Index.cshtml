@@ -1,0 +1,32 @@
+﻿@{
+    
+    var products = ViewBag.Products as List<dynamic>;
+}
+
+
+<h2>Quản lý sản phẩm</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Tên sản phẩm</th>
+            <th>Đơn giá</th>
+            <th>Số lượng</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in products)
+        {
+            <tr>
+                <td>@product.TENSANPHAM</td>
+                <td>@product.DONGIA</td>
+                <td>@product.SOLUONG</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = product.MASANPHAM })">Sửa</a> |
+                    <a href="@Url.Action("Delete", new { id = product.MASANPHAM })">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create")">Thêm sản phẩm</a>
