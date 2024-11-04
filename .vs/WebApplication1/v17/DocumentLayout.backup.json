@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|c:\\users\\dell\\source\\repos\\webapplication1\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\source\\repos\\webapplication1\\webapplication1\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\trangchu\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\trangchu\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\quanlybanhangmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\quanlybanhangmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CD7126B-2292-431C-9B8A-85CCFA3FC4D1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\quanlybanhangmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\quanlybanhangmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\tbkhanhhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\tbkhanhhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication2\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA976BA-FE99-4D5C-8B56-E10C341F93D2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH8AAAAA5f///z8mwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:08:28.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Edit.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:46:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:09:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAE4AAAAAbGZmZmYawG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:59:33.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TrangChuController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TrangChuController.cs",
+              "ViewState": "AgIAADIAAABgMTMzMzMwwCsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:57:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAACQAAABAMTMzMzMbwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:45:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:29:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAMjMzMzMbwHEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T06:25:40.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\TrangChu\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TrangChu\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\TrangChu\\ProductDetails.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TrangChu\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:03:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:37:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:37:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Web.config",
+              "RelativeToolTip": "WebApplication2\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-03T03:51:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication2\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:11:10.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAQAAABAAQAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:26:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QUANLYBANHANGMODEL.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\QUANLYBANHANGMODEL.edmx",
+              "RelativeDocumentMoniker": "WebApplication2\\QUANLYBANHANGMODEL.edmx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\QUANLYBANHANGMODEL.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication2\\QUANLYBANHANGMODEL.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-03T03:25:37.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:46:25.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CSS\\style.css",
+              "RelativeDocumentMoniker": "WebApplication1\\CSS\\style.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CSS\\style.css",
+              "RelativeToolTip": "WebApplication1\\CSS\\style.css",
+              "ViewState": "AgIAAFkBAAAAAAAAAABwPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T10:35:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:23:35.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T06:32:55.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T06:29:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T03:51:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAMjMzMzMLwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:44:15.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:23:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAABAPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:23:16.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:23:30.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:02:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:02:53.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Web.Debug.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\Web.Debug.config",
+              "RelativeToolTip": "WebApplication2\\Web.Debug.config",
+              "ViewState": "AgIAABIAAAAAAAAAAABAvQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T08:35:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QUANLYBANHANGMODEL.Context.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\QUANLYBANHANGMODEL.Context.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\QUANLYBANHANGMODEL.Context.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\QUANLYBANHANGMODEL.Context.cs",
+              "RelativeToolTip": "WebApplication2\\QUANLYBANHANGMODEL.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:17:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "tbKHANHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\tbKHANHHANG.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\tbKHANHHANG.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\tbKHANHHANG.cs",
+              "RelativeToolTip": "WebApplication2\\tbKHANHHANG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:16:58.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "APPLICATION.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\APPLICATION.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\APPLICATION.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication2\\APPLICATION.cs",
+              "RelativeToolTip": "WebApplication2\\APPLICATION.cs",
+              "ViewState": "AgIAAA0AAACgmJmZmZkhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:16:39.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

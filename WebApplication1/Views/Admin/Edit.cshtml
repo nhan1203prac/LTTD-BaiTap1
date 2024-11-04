@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Edit";
+    var product = ViewBag.Product as dynamic;
+}
+
+<h2>Update Product</h2>
+
+
+
+<form action="@Url.Action("Edit", "Admin")" method="post" enctype="multipart/form-data">
+
+    <div>
+        <label for="ProductName">Mã sản phẩm:</label>
+        <input type="text" id="ProductCode" name="MASANPHAM" required value="@product.MASANPHAM" />
+    </div>
+    <div>
+        <label for="ProductName">Tên sản phẩm:</label>
+        <input type="text" id="ProductName" name="TENSANPHAM" required value="@product.TENSANPHAM" />
+    </div>
+    <div>
+        <label for="UnitPrice">Đơn giá:</label>
+        <input type="number" id="UnitPrice" name="DONGIA" required step="0.01" value="@product.DONGIA" />
+    </div>
+    <div>
+        <label for="Quantity">Số lượng:</label>
+        <input type="number" id="Quantity" name="SOLUONG" required value="@product.SOLUONG" />
+    </div>
+    <div>
+        <label for="Image">Hình ảnh:</label>
+        <input type="file" id="Image" name="HINHANH" accept="image/*" />
+        @* Hiển thị hình ảnh đã có nếu tồn tại *@
+        @if (!string.IsNullOrEmpty((string)product.HINHANH))
+        {
+            <div>
+                <img src="/images/@product.HINHANH" alt="Product Image" width="100" height="100" />
+            </div>
+        }
+
+    </div>
+    <div>
+        <label for="Description">Mô tả:</label>
+        <textarea id="Description" name="MOTA">@product.MOTA</textarea>
+    </div>
+    <div>
+        <label for="CategoryCode">Mã danh mục:</label>
+        <select id="CategoryCode" name="MADANHMUC" required>
+            <option value="">Chọn mã danh mục</option>
+            @if (ViewBag.Categories != null)
+            {
+                foreach (var category in ViewBag.Categories)
+                {
+                    <option value="@category.MADANHMUC" @(category.MADANHMUC == product?.MADANHMUC ? "selected" : "")>
+                        @category.MADANHMUC
+                    </option>
+                }
+            }
+        </select>
+    </div>
+    <div>
+        <button type="submit">Tạo sản phẩm</button>
+    </div>
+</form>
+
+
+
+@if (ViewBag.EditError != null)
+{
+    <div style="color:red;">
+        @ViewBag.EditError
+    </div>
+}
